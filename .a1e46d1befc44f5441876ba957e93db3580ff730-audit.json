@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": ".a1e46d1befc44f5441876ba957e93db3580ff730-audit.json",
+    "files": [
+        {
+            "date": 1673453114356,
+            "name": "modium-lite-2023-01-11.log",
+            "hash": "423f575dd8c2aee66011d6b615f6beb578d0bee98233466c5746095c9df91167"
+        },
+        {
+            "date": 1673463604932,
+            "name": "modium-lite-2023-01-12.log",
+            "hash": "a4dd1542a3e353be25ad18288d2a1be2cc870c898773d9c99eb4af1ac6b18c22"
+        }
+    ],
+    "hashType": "sha256"
+}
